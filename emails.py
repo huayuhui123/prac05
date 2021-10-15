@@ -12,4 +12,4 @@ while email!=" ":
     email = input("Email:")
 for key,value in dict.items():
     print("{}({})".format(value,key))
-print("finished")
+print("merge branches")
